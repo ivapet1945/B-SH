@@ -1,2 +1,0 @@
-# B-SH
-Hacking world
